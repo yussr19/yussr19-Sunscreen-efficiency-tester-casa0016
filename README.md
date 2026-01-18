@@ -34,7 +34,7 @@ UV-sensitive phototransistor
 
 Resistors, breadboard, microscope slides
 
- # 📊 What It Shows
+ #  What It Shows
 
 Sunscreen significantly reduces UV transmission
 
