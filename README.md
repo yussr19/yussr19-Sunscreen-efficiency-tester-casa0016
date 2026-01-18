@@ -1,5 +1,5 @@
 
-# Sunscreen-efficiency-tester-
+# [Sunscreen-efficiency-tester-](https://youtube.com/shorts/77F6-b3nK3U)
 ![IMG_6136](https://github.com/user-attachments/assets/fb7c913e-1671-46ee-8444-0929a7436da0)
 
 This project is a simple UV sensing device that helps visualise how well sunscreen blocks ultraviolet (UVA) light. By shining UV light through a microscope slide and measuring how much passes through, the system provides immediate feedback on sunscreen effectiveness.
@@ -16,7 +16,7 @@ A clean slide is used as a baseline reference
 
 Sunscreen is applied to the slide to reduce transmitted UV
 
-An Arduino calculates the percentage of UV blocked
+An Arduino MKR WiFi 1310 calculates the percentage of UV blocked
 
 Results are displayed in real time on an LCD screen
 
@@ -28,11 +28,12 @@ Arduino MKR WiFi 1310
 
 400 nm UV LED
 
-UV-sensitive phototransistor
+phototransistor light sensor 
 
-16×2 RGB LCD
+RBG LCD 1602 screen 
 
-Resistors, breadboard, microscope slides
+
+Resistors,  small breadboard, microscope slides
 
  #  What It Shows
 
@@ -52,7 +53,7 @@ Possible improvements include optical shielding, multi-wavelength testing, and e
 
  #  AI Use
 
-AI tools were used to assist with code debugging and writing clarity. All testing and analysis were performed by the author.
+AI tools were used to assist with code debugging and writing clarity. 
 
 
 
